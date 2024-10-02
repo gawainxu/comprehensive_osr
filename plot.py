@@ -1,6 +1,3 @@
-# visualize the feature ensemble results
-#https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot
-
 import matplotlib.pyplot as plt
 import numpy as np
 
