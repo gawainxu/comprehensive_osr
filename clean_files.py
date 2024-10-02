@@ -1,6 +1,6 @@
 import os
 
-root_path = "/home/sysgen/Jiawen/comprehensive_OSR/save/SupCon/"
+root_path = "/home/
 dataset_folders = os.listdir(root_path)
 print(dataset_folders)
 
