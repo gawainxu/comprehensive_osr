@@ -1,6 +1,6 @@
 import os
 import sys
-BASE_PATH = "/home/sysgen/Jiawen/SupContrast-master"
+BASE_PATH = "/home/"
 sys.path.append(BASE_PATH) 
 
 import argparse
