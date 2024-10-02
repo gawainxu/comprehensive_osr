@@ -1,10 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 20 16:00:10 2021
-
-@author: zhi
-"""
 
 import json
 import pickle
