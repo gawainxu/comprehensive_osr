@@ -18,10 +18,10 @@ def KNN_logits_global(testing_features, examplar_features, l):
 
 
 
-with open("D://projects//comprehensive_OSR//features//cifar10//cifar10_resnet34_mixup_min_similarity_no_p_0.1_alfa_2.0_single_0.05_SupCon_trail_0_test_unknown", "rb") as f:
+with open("test_unknown", "rb") as f:
     features_testing_unknown, features_testing_unknown_encoding, _, labels_testing_unknown = pickle.load(f) 
 
-with open("D://projects//comprehensive_OSR//features//cifar10//cifar10_resnet34_mixup_min_similarity_no_p_0.1_alfa_2.0_single_0.05_SupCon_trail_0_train", "rb") as f:
+with open("train", "rb") as f:
     features_train, features_train_encoding, _, labels_train = pickle.load(f) 
 
 
