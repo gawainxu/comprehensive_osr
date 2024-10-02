@@ -1,14 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 14 15:29:30 2022
-
-@author: zhi
-"""
-
 import os
 import sys
-BASE_PATH = "/home/sysgen/Jiawen/SupContrast-master"
+BASE_PATH = "/home/"
 sys.path.append(BASE_PATH) 
 
 import argparse
